@@ -62,7 +62,7 @@ void AionUtil::AionLoop() {
 		}
 		QThread::msleep(1500);
 	}
-	commandLineQuery.cleanUp(); 
+	commandLineQuery.cleanUp();
 }
 
 AionUtil::AionUtil(QWidget *parent) : QMainWindow(parent) {
