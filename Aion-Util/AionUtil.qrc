@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/AionUtil">
+        <file>Resources/Images/AionLogo.png</file>
+    </qresource>
+</RCC>
